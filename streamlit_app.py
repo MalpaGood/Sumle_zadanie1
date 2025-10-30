@@ -41,7 +41,3 @@ if option == "Tłumaczenie z języka angielkskiego na język niemiecki":
             except Exception as e:
                 st.error(f"Wystąpił błąd podczas tłumaczenia: {e}")
 st.write("s27493")
-
-
-
-st.write('🐞 Udostępnij stworzoną przez siebie aplikację (https://share.streamlit.io) a link prześlij do prowadzącego')
